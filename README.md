@@ -6,7 +6,7 @@ A 90 day learning plan to learn the basics of OOP, get a command of Full Stack J
 ## Skills Covered:
 
 - 💎 Object Oriented Programming
-- 💎 ES6+ Javascript
+- 💎 ES6+ Javascriptvdzdxfv zfbv
 - 💎 Node
 - 💎 Mongo
 - 💎 PostgreSQL
